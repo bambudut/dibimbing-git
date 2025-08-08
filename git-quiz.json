@@ -1,0 +1,13 @@
+{
+  "id": "quiz-001",
+  "title": "Mini Quiz GIT Assignment",
+  "language": "id",
+  "difficulty": "easy",
+  "question": "Jika seorang QA Engineer ingin membuat logic changes untuk fix fitur product detail page yang error. Tuliskan contoh command dan message commit yang baik dan sesuai?",
+  "tips": [
+    "Commit message harus jelas dan dimengerti.",
+    "Mengandung context apa dan kenapa diubah."
+  ],
+  "hint": "Tulis jawaban kamu dengan update empty string di object answer dibawah ini.",
+  "answer": ""
+}
