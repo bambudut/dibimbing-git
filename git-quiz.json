@@ -9,5 +9,7 @@
     "Mengandung context apa dan kenapa diubah."
   ],
   "hint": "Tulis jawaban kamu dengan update empty string di object answer dibawah ini.",
-  "answer": ""
+  "answer": ["Commit : Bug Fixing BUG ID : 005 - Email Validation",
+             "Message: Perbaikan pada email domain yang sebelumnya tidak ada validasi format domain sehingga fake email masih dapat di input"
+            ]
 }
