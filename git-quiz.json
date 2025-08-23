@@ -9,5 +9,5 @@
     "Mengandung context apa dan kenapa diubah."
   ],
   "hint": "Tulis jawaban kamu dengan update empty string di object answer dibawah ini.",
-  "answer": ""
+  "answer": "git add .\ngit commit -m \"fix: perbaiki error pada logic data produk (tidak bisa diload)\""
 }
