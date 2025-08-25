@@ -9,5 +9,5 @@
     "Mengandung context apa dan kenapa diubah."
   ],
   "hint": "Tulis jawaban kamu dengan update empty string di object answer dibawah ini.",
-  "answer": ""
+  "answer": "git add .\ngit commit -m \"fix: perbaikan logic pada product detail page agar menampilkan data produk dengan benar\""
 }
