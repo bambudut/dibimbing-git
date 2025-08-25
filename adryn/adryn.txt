@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+halo world, Quality Assurance Bootcamp
+=======
+halo world, Quality Assurance Bootcamp
+>>>>>>> 7de9c3d9faffc1cd90236bb3e76be413bfec2faa
