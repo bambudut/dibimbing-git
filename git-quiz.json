@@ -9,5 +9,5 @@
     "Mengandung context apa dan kenapa diubah."
   ],
   "hint": "Tulis jawaban kamu dengan update empty string di object answer dibawah ini.",
-  "answer": ""
+  "answer": "git commit m - "Melakukan perubahan endpoint API pada detail page yang error"
 }
